@@ -40,9 +40,7 @@ Run personalized email campaigns using ride history
 🚀 How to View
 Clone the repo and open the notebook or presentation:
 
-bash
-Copy
-Edit
 git clone https://github.com/TheJayesh25/Google-Data-Analytics-Capstone-Project.git
+
 📬 Contact
 For queries or collaborations, connect with me on LinkedIn
